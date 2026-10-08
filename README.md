@@ -1,5 +1,7 @@
 # Community Library Catalogue
 
+🌐 **Live Demo:** [View the Community Library Catalogue](https://renevaservices.github.io/community-library-catalogue/)
+
 A responsive community library catalogue built for the volunteer web-development skills test.
 
 ## Features
